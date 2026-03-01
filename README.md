@@ -1,6 +1,6 @@
 # 🎮 TUC-Tac-Toe
 
-A graphical desktop implementation of the classic Tic-Tac-Toe game. Developed as part of the **Object-Oriented Programming (ΠΛΗ 102)** course at the **Technical University of Crete** (Spring 2021).
+A graphical desktop implementation of the classic Tic-Tac-Toe game. Developed as part of the **Object-Oriented Programming (ΠΛΗ 102)** course at the **Technical University of Crete** (Spring 2022).
 
 This project is built entirely from scratch using custom data structures (dynamic arrays, lists, trees) and algorithms—without relying on pre-built libraries for core game mechanics.
 
