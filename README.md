@@ -41,7 +41,6 @@ The application follows a strict **Model-View-Controller (MVC)** design pattern:
 * **Controller:** Manages user input and game state updates.
 
 ### Additional Features:
-* ✅ **Testing:** Core game logic is validated using Unit Tests.
 * 🖥 **Graphical Interface:** Includes panel states, dialog boxes, and layouts for the game board, player stats, and Hall of Fame.
 
 ---
